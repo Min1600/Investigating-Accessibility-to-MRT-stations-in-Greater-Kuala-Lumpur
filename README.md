@@ -1,7 +1,7 @@
 # Investigating-Accessibility-to-MRT-stations-in-Greater-Kuala-Lumpur
 
 
-**_Introduction_**
+### **_Introduction_**
 
 The first and last mile (FLM) problem is a crucial factor in underutilization of public transportation, it is the difficulty in accessing public transit stations (Lu, et al., 2024). FLM problem increases the likelihood of private car usage to access public transit stations which contributes to traffic congestion, air pollution and increases expenditure on construction and maintenance of parking facilities around stations (Lu et.al, 2024). The systematic review stated that type of public transport available and the spatial accessibility of public-transport stops are some of the factors that affect FLM mode choice.
 
@@ -9,7 +9,7 @@ MRT and LRT services in Greater Kuala Lumpur (GKL) provide efficient and reliabl
 
 This project aims to develop a spatial decision-support framework for identifying and prioritising FLM interventions around MRT stations in GKL. This framework is created by combining (all public data), population estimates from WorldPop, pedestrian-network measurement derived from OpenStreetMap and using OSMnx python library for geospatial calculations, MRT service data, existing DRT coverage and station ridership from Official Malaysia Open Data Portal (data.gov.my) GTFS. Using this data-driven framework to identify areas with indirect walking routes, excessive walking distances or insufficient connecting services. These accessibility profiles will support provisional recommendations for pedestrian infrastructure, feeder bus service or DRT service improvements.
 
-**_Related Work_**
+### **_Related Work_**
 
 LRT station usage can be determined by the walkability to the station, a higher walkability index leads to increase in pedestrians in LRT stations (Chin et al., 2020). Ruslan et al. (2023) found that walkability varied spatially, with lower accessibility along some primary roads in Kuala Lumpur. Khoo (2025) examined walkability in GKL using road permeability and POI accessibility. All these studies found that walkability is multidimensional and that spatial indicators alone cannot capture factors such as safety, comfort, dedicated pedestrian facilities and weather protection. This project will not attempt to measure walkability, instead it isolates pedestrian-network accessibility by measuring network walking distance and route circuity.
 
@@ -19,7 +19,7 @@ Rahaman et al. (2025) developed a GIS-based Transit Accessibility Index for Punc
 
 Existing GKL studies generally examine walkability at a small number of stations or construct broad accessibility indices. This project instead conducts a consistent network-based assessment across all MRT station catchments and links obtainable spatial and administrative data to specific intervention categories. This can make the framework reproducible, scalable and capable of being updated as transport conditions change.
 
-**_Business Model_**
+### **_Business Model_**
 
 This project represents information-based brokering because it integrates multiple spatial and transport datasets to produce value-added accessibility profiles and decision-support information for transport planners. It helps decision-makers identify areas where pedestrian infrastructure, feeder-bus or DRT interventions may warrant further investigation. The project would be a business-to-government or business-to-business analytical service.
 
@@ -29,7 +29,9 @@ This project can benefit transport operators as it provides evidence for identif
 
 The principal direct users are expected to be Prasarana, Rapid Bus and local authorities because they control different components of first-mile accessibility. Rapid Bus manages feeder and On-Demand operations, while local authorities are generally responsible for surrounding pedestrian infrastructure. The decision-support system allows these stakeholders to coordinate interventions using a common evidence base.
 
-References
+
+
+                                                                            References
 
 Almselati, A. S. I., Rahmat, R. A. O. K., & Jaafar, O. (2011). An overview of urban transport in Malaysia. _Social Sci, 6_(1), 24–33.
 
