@@ -31,7 +31,7 @@ The principal direct users are expected to be Prasarana, Rapid Bus and local aut
 
 
 
-                                                                            References
+<div align="center">This text is centered.</div>
 
 Almselati, A. S. I., Rahmat, R. A. O. K., & Jaafar, O. (2011). An overview of urban transport in Malaysia. _Social Sci, 6_(1), 24–33.
 
