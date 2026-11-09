@@ -25,7 +25,10 @@ A station 400m away as the crow flies can be a 3km walk if highways, rail lines 
 - **Poorer access is associated with lower use.** Circuity and log ridership are negatively correlated (r = −0.40, p = 0.031).
 - **Taman Suntex shows a clear barrier pattern.** 9 of its 23 residential areas face detours of 3.3–10.2×; one area 334m from the station is a 3.4km walk.
 - **Population barely predicts ridership** (R² = 0.02). [n] stations record more daily boardings than they have catchment residents, so heavy use at central and interchange stations comes mainly from non-residents.
-- **Clusters:** [k] groups — [one line per cluster: profile, example stations, suggested intervention].
+- **Clusters:** 5 groups:
+- Low-circuity, low ridership prompting investigations for low station usage despite low-circuity.
+- High circuity, high-population and high-circuity, low-population indicating high priority for the prior
+- Extremely high-circuity (4.21) with low-ridership which was one station, indicating urgent investigation for such an outlier.
 
 ![Clusters](outputs/figures/clusters.png)
 
